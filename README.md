@@ -1,0 +1,1 @@
+Place to put some of my General Assembly WDI homework projects and other bits and pieces. 
